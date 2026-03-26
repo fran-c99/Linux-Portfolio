@@ -9,3 +9,9 @@ Linux is an open-source operating system that runs the world's infrastructure. M
 - Portfolio practices
 - Projects
 
+## Scripting
+
+#### Bash
+
+
+
